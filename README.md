@@ -11,20 +11,32 @@
 
 # 🛠️ Tech Stack
 
+### 💻 Languages
+
 <p align="center">
+<img src="https://skillicons.dev/icons?i=python,php,java,c,js"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,php,java,c,js,html,css,bootstrap,angular,git,github,vscode,mysql&perline=7"/>
+### 🎨 Frontend
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular"/>
+</p>
+
+### ⚙️ Backend & Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
 <p align="center">
+<b>Frappe</b> • <b>ERPNext</b> • <b>MariaDB</b> • <b>REST APIs</b>
+</p>
 
-<img src="https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logo=frappe&logoColor=white"/>
-<img src="https://img.shields.io/badge/ERPNext-0D6EFD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+### 🛠️ Tools
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
