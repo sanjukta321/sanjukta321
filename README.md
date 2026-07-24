@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Sanjukta Barik 👋
 
-<!--
-**sanjukta321/sanjukta321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Junior Python & Frappe Developer passionate about building ERP solutions and backend applications.
 
-Here are some ideas to get you started:
+## 💼 Working with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Frappe Framework
+- ERPNext
+- REST APIs
+- MariaDB & SQL
+- JavaScript
+- Git & GitHub
+
+## 🌱 Currently Learning
+
+- Playwright Automation Testing
+- Advanced Backend Development
+
+## 🚀 About Me
+
+I enjoy solving real-world business problems through clean, efficient, and maintainable code.
+
+⭐ Thanks for stopping by! Feel free to explore my repositories and connect with me.
