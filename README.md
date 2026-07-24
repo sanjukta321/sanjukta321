@@ -2,8 +2,9 @@
 
 # 👋 Hi, I'm Sanjukta Barik
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Junior+Python+Developer;Frappe+%26+ERPNext+Developer;Backend+Developer;Always+Learning+New+Things+🚀" />
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Junior+Python+Developer;Frappe+%26+ERPNext+Developer;Backend+Developer;Always+Learning+New+Things+🚀" />
+</p>
 </div>
 
 ---
