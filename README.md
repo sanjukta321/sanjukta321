@@ -9,17 +9,22 @@
 
 ---
 
-## 🚀 Tech Stack
+# 🛠️ Tech Stack
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,php,java,c,js,html,css,bootstrap,angular,git,github,vscode,mysql&perline=7"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logo=frappe&logoColor=white"/>
 <img src="https://img.shields.io/badge/ERPNext-0D6EFD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
 </p>
 
 ---
