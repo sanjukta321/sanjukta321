@@ -1,15 +1,10 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Sanjukta+Barik;Junior+Python+%26+Frappe+Developer;ERPNext+Developer;Backend+Developer;Welcome+to+my+GitHub+Profile!🚀" />
-</h1>
+<div align="center">
 
-<h3 align="center">Welcome to my GitHub! 👩‍💻</h3>
+# 👋 Hi, I'm Sanjukta Barik
 
-<p align="center">
-I'm a <strong>Junior Python & Frappe Developer</strong> passionate about building ERP solutions,
-REST APIs, and scalable backend applications.
-<br><br>
-I enjoy learning new technologies, solving real-world business problems, and sharing my coding journey.
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Junior+Python+Developer;Frappe+%26+ERPNext+Developer;Backend+Developer;Always+Learning+New+Things+🚀" />
+
+</div>
 
 ---
 
