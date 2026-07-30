@@ -75,6 +75,11 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjukta321&theme=tokyo-night&hide_border=true" />
 </p>
 
+## 🐍 Contribution Snake
+<p align="center">
+<img src="https://raw.githubusercontent.com/sanjukta321/sanjukta321/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
 ## 📫 Connect with Me
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/sanjukta-barik-450b83268
