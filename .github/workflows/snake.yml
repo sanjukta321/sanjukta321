@@ -2,7 +2,7 @@ name: generate snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs once a day
+    - cron: "0 0 * * *"
   workflow_dispatch: {}
   push:
     branches:
@@ -29,4 +29,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.Test}}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
